@@ -1,20 +1,18 @@
 # finGPT
 Web-based financial advisor chatbot that can assist users with investment decisions.
-Aim: Develop a web-based financial advisor chatbot that can assist users with investment decisions.
 
-Work Done before first evaluation: 
+<b>Work Done before first evaluation:</b> 
 We have created .json (Dataset) file for the mode to be trained and also created the python file to train 
 the model and also started to create the UI for the application and web.
 
-Work Done between first and second evaluation:
-
+<b>Work Done between first and second evaluation:</b>
 We have trained and tested the model which gives around 95% accuracy and gives accurate satisfactory to almost every messages and we have also finish working on the UI of the website.
 
-How to run the kaggle file:
-	1. load every pkl file and h5 file in the kaggle enivorment
-	2. Run the last cell of the file for the final but temporary output of the chatbot
-	3. All the above cells are training and preprocessing of the training data
+<b>How to run the kaggle file:</b>
+	<li>1. load every pkl file and h5 file in the kaggle enivorment.</li>
+	<li>2. Run the last cell of the file for the final but temporary output of the chatbot</li>
+	<li>3. All the above cells are training and preprocessing of the training data</li>
 
-How to run website:
-	1. Put every html,css and js file into a single location
-	2. Run the index.html file
+<b>How to run website:</b>
+	<li>1. Put every html,css and js file into a single location</li>
+	<li>2. Run the index.html file</li>
